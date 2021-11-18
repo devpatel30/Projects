@@ -1,0 +1,4 @@
+rectangle,2,3 
+rectangle,4
+circle,10
+circle,
